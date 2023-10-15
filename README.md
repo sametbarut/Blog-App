@@ -4,7 +4,7 @@ Blog App, [https://smtbrt.vercel.app/](https://smtbrt.vercel.app/) adresinde bul
 
 ## Genel Bakış
 
-Blog App, insanların paylaşımlar yapabilceği, birbirleriyle etkileşime girebileceği basit bir blog işlevini yerine getirmek için tasarlanmıştır.
+Blog App, insanların paylaşımlar yapabilceği, birbirleriyle etkileşime girebileceği basit bir blog işlevini yerine getirmek için tasarlanmıştır. Frontend teknolojisi olarak React.js kullanılmıştır. Backend teknolojisi olarak Google Firebase kullanılmıştır.
 
 ## Özellikler
 
